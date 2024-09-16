@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulrana5&label=Profile%20views&color=0e75b6&style=flat" alt="mehulrana5" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mehulrana5](https://github.com/mehulrana5)
-
 - 📫 How to reach me **mehulwork92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
